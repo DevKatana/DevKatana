@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Привет, я DevKatana
 
-<!--
-**DevKatana/DevKatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Начинающий разработчик, учусь Python и JavaScript.  
+⚔️ Люблю чистый код и мощные задачи.  
+🚀 Мечта — пробиться в IT.
 
-Here are some ideas to get you started:
+## 💻 Что изучаю:
+- Python (основы, ООП, модули)
+- Git и GitHub
+- Основы алгоритмов и структуры данных
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Планы:
+- ✅ Пройти основы Python (уже в процессе)
+- 🔜 Начать изучать другие языки
+- 🔜 Создать хорошое портфолио
+
+## 📫 Связь:
+Через email.
