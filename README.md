@@ -1,18 +1,36 @@
-# 👋 Привет, я DevKatana
+# Hi, I'm DevKatana 👋
 
-🧠 Начинающий разработчик, учусь Python и JavaScript.  
-⚔️ Люблю чистый код и мощные задачи.  
-🚀 Мечта — пробиться в IT.
+## Backend Developer | Python
 
-## 💻 Что изучаю:
-- Python (основы, ООП, модули)
-- Git и GitHub
-- Основы алгоритмов и структуры данных
+I'm a backend-focused developer building and improving real-world projects while mastering core engineering fundamentals.
 
-## 📌 Планы:
-- ✅ Пройти основы Python (уже в процессе)
-- 🔜 Начать изучать другие языки
-- 🔜 Создать хорошое портфолио
+I’m currently focused on:
+- Designing REST APIs
+- Working with databases (SQL)
+- Writing clean, maintainable code
+- Improving Git workflow and collaboration practices
 
-## 📫 Связь:
-Через email.
+---
+
+## 🛠 Tech Stack
+- **Python**
+- **SQL**
+- **Git & GitHub**
+- **Linux (CLI)**
+- REST API fundamentals
+
+---
+
+## 📚 Currently Learning
+- Backend architecture basics
+- Code structure & best practices
+- Working with servers and deployment fundamentals
+
+---
+
+## 🎯 Goals
+To grow into a strong backend engineer capable of building scalable and maintainable systems.
+
+---
+
+> Consistency beats motivation.
